@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1539122100 source:c:\users\rollek\desktop\foldery\codeblock\statki\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iostream>
+	<algorithm>
+	<functional>
+
+1512066405 source:c:\users\rollek\desktop\foldery\codeblocks\statki\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iostream>
+	<algorithm>
+	<functional>
+
+1539125700 source:c:\users\rollek\desktop\foldery\pœk\codeblock\statki\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iostream>
+	<algorithm>
+	<functional>
+
